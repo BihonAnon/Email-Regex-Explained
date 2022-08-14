@@ -41,3 +41,8 @@ bracketed expressions are used to validate a set of characters in a partial stri
 ## Greedy and Lazy Match
 
 The regex includes greedy matches since it uses the "+" quantifier. This means, it will match as many times as possible giving back as needed. Another greedy quantifier in this regex is ```{}``` when matching ```{2,6}``` in the third capture group.
+
+
+
+### Take a look at my other projects at this link!
+[my Github](https://github.com/BihonAnon)
